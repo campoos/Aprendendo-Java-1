@@ -1,9 +1,12 @@
 //Criando class e dando o primeiro "console.log"
-public class Main {
+
+public class Consolelog {
     public static void main(String[] args){
         System.out.println("Meu primeito teste todando Java");
     }
 }
+
+
 
 //ANOTAÇÕES:
 //
@@ -120,8 +123,12 @@ public class Main {
 //
 //------------------------------------------------------------------------------------------------------------------------
 //
-Entendendo System.out.println()
-    
+//Entendendo System.out.println() -> exibindo mensagens no terminal
+//        System -> classe padrao para acessar recursos do sistema
+//        .out -> variavel da classe system que serve para gerar saidas
+//        .println("...") -> metodo do out (abreviacaçõ de print line), ele imprime o conteudo dentro do println e pula
+//        uma linha
+
 
 
 
